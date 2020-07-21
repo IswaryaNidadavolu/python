@@ -1,0 +1,5 @@
+n=input("enter the number")
+list=n.split(",")
+tuple=tuple(list)
+print(list)
+print(tuple)

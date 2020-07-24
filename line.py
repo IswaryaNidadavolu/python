@@ -1,0 +1,7 @@
+x1=(int(input("enter the number")))
+x2=(int(input("enter the number")))
+y1=(int(input("enter the number")))
+y2=(int(input("enter the number")))
+result=((x1+x2)/2)
+result1=((y1+y2)/2)
+print(result,result1)
